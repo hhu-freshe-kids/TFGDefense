@@ -6,9 +6,6 @@ import javafx.scene.canvas.Canvas;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
 
-/**
- * Created by maride on 20.02.16.
- */
 public class Main extends Application {
     public int width = 800;
     public int height = 600;
